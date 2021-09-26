@@ -13,7 +13,7 @@
 - [Profile](https://github.com/slagatoras "Slagatoras")
 - [Email](mailto:s.lagatoras@gmail.com?subject=Hi "Hi!")
 - [Website](https://slaga-games.com "Welcome")
-- [Blog](https://slaga-games.com/blog "My Blog")
+- [Blog](https://adeveloperslife.com "My Blog")
 
 ## 🤝 Support
 
